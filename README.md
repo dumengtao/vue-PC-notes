@@ -2,6 +2,10 @@
 
 > Vue网页记事本
 
+# 效果预览地址
+
+>https://dumengtao.github.io/vue-PC-notes/dist/
+
 ## Build Setup
 
 ``` bash
